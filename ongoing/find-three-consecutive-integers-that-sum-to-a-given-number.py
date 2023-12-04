@@ -4,13 +4,12 @@ class Solution(object):
         :type num: int
         :rtype: List[int]
         """
-        arr=[]
-        half =int(num//3)-3
-        last = int(num//3) + 3
-        for i in range(half, last):
-           if i +(i+1) + (i+2) == num:
-                arr.append(i)
-                arr.append(i+1)
-                arr.append(i+2)
-                return arr
-        return arr
+        L =[]
+        if num%3==0:
+            n=num//3
+            L.append(n-1)
+            L.append(n)
+            L.append(n+1)
+            return L
+        else:
+            return L
