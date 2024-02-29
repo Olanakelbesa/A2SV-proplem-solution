@@ -14,5 +14,5 @@ class Solution:
                 res.append(root.val)
                 inorder(root.right)
             inorder(root)
-            while res:
-                return res[k-1]
+            
+            return res[k-1]
