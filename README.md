@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/1002-maximum-width-ramp) |
+## String
+|  |
+| ------- |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 <!---LeetCode Topics End-->
