@@ -47,14 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Hash Table
 |  |
 | ------- |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Olanakelbesa/A2SV-proplem-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
